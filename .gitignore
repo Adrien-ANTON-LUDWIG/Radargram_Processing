@@ -1,3 +1,15 @@
+# Rules specific to the project
+
+# VSCode settings
+.vscode/
+
+# Screenshots for the report
+plots
+
+###############################################################################
+
+# Python gitignore template from GitHub gitignore repository
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
